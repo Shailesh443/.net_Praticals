@@ -1,0 +1,9 @@
+.vs/
+bin/
+<<<<<<< HEAD
+obj/
+packages/
+*.user
+=======
+obj/
+>>>>>>> eda4a5fd0535fe1024897c89730bd10d267a2a39
